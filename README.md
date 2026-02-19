@@ -1,25 +1,25 @@
 ⚡ Variable DC Power Supply (1.5-24V, 0-2A)
 Welcome to the repository for my variable DC power supply fabrication project. This repo documents the build and validation of a fully functional power supply capable of delivering 1.5-24V and 0-2A.
-+1
+
 
 Originally fabricated for my Electronics Engineering Technician diploma, this device is now a permanent fixture on my workbench for breadboarding and powering microcontroller experiments.
-+1
+
 
 🛠️ Build Highlights
 
 PCB Assembly: The entire circuit board was hand-soldered to IPC standards, navigating complex surface-mount components and resolving solder bridging on a fine-pitch 40-pin LCD connector.
-+1
+
 
 
 Custom Enclosure: The housing was designed in Fusion 360 to perfectly fit the transformer, PCB, touchscreen display, and cooling vents.
 
 
 Validation: The power supply passed rigorous testing, including thermal profiling (staying under 125°C at full load) and oscilloscope signal verification to ensure a stable DC output.
-+1
+
 
 🚀 IoT Smart Energy Meter Capstone
 The fabrication and thermal design skills honed during this power supply build are currently being applied to my IoT Smart Energy Meter Capstone project. This repo also includes some preliminary schematics and block diagrams for the isolated 4-layer PCB being designed for the energy meter. Whether the final meter runs on a PIC24 or an ESP32, the foundations built here are keeping the project on track for our April 2026 deadline.
-+1
+
 
 📝 Important Note on the Project Charter:
 You will find the Project_Charter_Overview_WBS_Finished.pdf attached in the files. Please note that this charter is specifically for the capstone and was developed in advance. As the project has progressed and we have incorporated valuable feedback, certain elements of the scope and technical design have naturally evolved from what is outlined in this original document.
