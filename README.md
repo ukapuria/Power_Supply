@@ -17,7 +17,7 @@ Custom Enclosure: The housing was designed in Fusion 360 to perfectly fit the tr
 Validation: The power supply passed rigorous testing, including thermal profiling (staying under 125°C at full load) and oscilloscope signal verification to ensure a stable DC output.
 
 
-🚀 IoT Smart Energy Meter Capstone
+🚀 IoT Smart Energy Meter Capstone:
 The fabrication and thermal design skills honed during this power supply build are currently being applied to my IoT Smart Energy Meter Capstone project. The Project Design Phase is fully finished this REPO includes the schematics, Block Diagram and the PCB Snapshot. 
 Project details: 
 For our ongoing capstone project, we are engineering an isolated IoT Smart Energy Meter for single-phase AC and DC applications (under 45V). The system is built on a custom 4-layer PCB utilizing a PIC24 microcontroller paired with an external ADC for precise, real-time data acquisition. We are developing C firmware to process this telemetry measuring real power, RMS voltage, and current with ±2% accuracy and transmit it to a remote dashboard via a hardwired Ethernet connection. To ensure rigorous hardware safety, the entire design is structured around an isolated hot/cold side architecture.
